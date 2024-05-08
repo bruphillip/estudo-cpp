@@ -1,0 +1,1 @@
+void sum(int firstNumber, int secondNumber, int* resultado);
